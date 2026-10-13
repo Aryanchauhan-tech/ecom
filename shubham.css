@@ -1,0 +1,14 @@
+.first{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    float: left;
+    font-size: 40px;
+}
+.second{
+    height: 50%;
+    width: 50%;
+    background-color: brown;
+    margin-left: 23.5%;margin-top: 11.5%;
+
+}
